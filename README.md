@@ -1,9 +1,9 @@
 ## Namaste 🙏🏻
 
 
-### Available 👇
+#### Message me at 👇
 <p>
-  <a href="https://telegram.dog/cyberboysumanjay">
+  <a href="https://telegram.dog/cyberNINGA">
     <img align="left" alt="Sumanjay Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
   </a> 
 </p>
@@ -11,7 +11,7 @@
 </br>
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/N1NG4/&title=Profile%20Views)
+<!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/N1NG4/&title=Profile%20Views) -->
 
 ### About 🙋🏻‍♂️
 ```python
