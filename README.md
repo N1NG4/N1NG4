@@ -17,7 +17,7 @@
 ```python
 name = "N1NG4" #a.k.a VANSHIT
 who_i_am = ['Developer','Coder','Noobie']
-age = 26
+age = 15
 religion = "🇮🇳"
 ```
 
