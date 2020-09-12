@@ -3,11 +3,6 @@
 
 <h5>Message me at 👉🏻 
   <a href="https://telegram.dog/cyberNINGA">Telegram</a></h5>
-</br>
-</br>
-
-
-<!-- ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/N1NG4/&title=Profile%20Views) -->
 
 ### About 🙋🏻‍♂️
 ```python
