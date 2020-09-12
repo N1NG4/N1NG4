@@ -4,7 +4,8 @@
 #### Message me at 👇
 <p>
   <a href="https://telegram.dog/cyberNINGA">
-    <img align="left" alt="NINGA Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" />
+    <h5>Telegram</h5>
+    <!-- <img align="left" alt="NINGA Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" /> -->
   </a> 
 </p>
 </br>
