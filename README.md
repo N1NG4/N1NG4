@@ -1,13 +1,8 @@
 ## Namaste 🙏🏻
 
 
-#### Message me at 👇
-<p>
-  <a href="https://telegram.dog/cyberNINGA">
-    <h5>Telegram</h5>
-    <!-- <img align="left" alt="NINGA Telegram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg" /> -->
-  </a> 
-</p>
+<h5>Message me at 👉🏻 
+  <a href="https://telegram.dog/cyberNINGA">Telegram</a></h5>
 </br>
 </br>
 
